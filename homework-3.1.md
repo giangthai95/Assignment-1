@@ -23,7 +23,27 @@ extname.js
   var i = 0
  
 // Statements:
+
+ debug_agent.js
+ 
+  var agent = new Agent();
+  
+  var self = this;
+  
+  legacy.js
+  var slabBuffer = null;
+   
 // Variables:
+
+buffer.js
+
+ var pos = 0;
+ 
+ var mul = 1;
+ 
+ fs.js
+  
+  var oldStatus = -1;
 // Operator:
 //Arithmetic:
 // Assignment:
@@ -37,4 +57,4 @@ extname.js
 //Arrays:
 //Array methods:
 //Booleans:
-//Comparrisons
+//Comparrison:
